@@ -1,4 +1,4 @@
 function getplaylists () {
-    let handsome=70
+    let handsome=50
     return null
 }
